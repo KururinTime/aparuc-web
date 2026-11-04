@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.local
+*.tsbuildinfo
+aparuc-web-para-compartir.zip
+.validation/
+.env
+.env.*
+!.env.example
