@@ -15,8 +15,7 @@ export const sectors = [
  {icon:Anchor,title:'Instalaciones portuarias y terminales',text:'Apoyo en protección portuaria, maniobras de amarre y regularización de infraestructura.'},
  {icon:Navigation,title:'Navegación en fiordos y canales',text:'Publicaciones náuticas actualizadas, preparación de equipos y planes de contingencia.'},
 ];
-export const credentials = ['Magíster en Dirección y Gestión Estratégica en Salud.','Diplomado en Gestión de Instituciones de Salud.','Diplomado en Emergencias Vitales para la Enfermería.','RCP y uso de DEA.','Curso de Apoyo Vital Cardiovascular Avanzado.','Ingeniería en Prevención de Riesgos.','Operador de Cámara Hiperbárica.','Enfermero de Sumersión.','Personal certificado como Instructor OMI (6.09).','Personal certificado como Facilitador SENCE.','Oficial de Protección de las Instalaciones Portuarias (OMI 3.21).','Capacitación en mercancías peligrosas (OMI 1.10).','Operador de equipos de Rayos X e interpretación de imágenes en DGAC.','Protección radiológica acreditada por SEREMI de Salud.'];
-export const expertise = [
+export const credentials = ['Magíster en Dirección y Gestión Estratégica en Salud.','Diplomado en Gestión de Instituciones de Salud.','Diplomado en Emergencias Vitales para la Enfermería.','RCP y uso de DEA.','Curso de Apoyo Vital Cardiovascular Avanzado.','Ingeniería en Prevención de Riesgos.','Operador de Cámara Hiperbárica.','Enfermero de Sumersión.','Personal certificado como Instructor OMI (6.09).','Personal certificado como Facilitador SENCE.','Oficial de Protección de las Instalaciones Portuarias (OMI 3.21).','Capacitación en mercancías peligrosas (OMI 1.10).','Operador de equipos de Rayos X e interpretación de imágenes en DGAC.','Protección radiológica acreditada por SEREMI de Salud.',
  'Búsqueda y rescate marítimo',
  'Supervivencia en el mar (OMI 1.19)',
  'Primeros auxilios (OMI 1.13)',
@@ -24,6 +23,8 @@ export const expertise = [
  'Sistema de Comando de Incidentes',
  'Control de averías marítimas',
  'Rescate y aprovisionamiento vertical con aeronaves',
+];
+export const expertise = [
  'Primeros auxilios en buceo',
  'Interpretación básica de tablas de buceo de la Marina Norteamericana (Revisión 7, Cambio A)',
  'Gestión y liderazgo para supervisores de buceo',
