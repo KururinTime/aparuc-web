@@ -7,3 +7,5 @@ aparuc-web-para-compartir.zip
 .env
 .env.*
 !.env.example
+
+dist.zip
