@@ -19,3 +19,5 @@
 .expertise-more{grid-column:1/-1;text-align:center;margin:12px 0 0;color:var(--ocean);font-weight:600}
 
 #cursos{scroll-margin-top:115px}
+
+.credential-photo{display:block;width:100%;max-width:340px;height:auto;margin-top:28px;border-radius:4px}@media(max-width:640px){.credential-photo{margin-inline:auto}}
