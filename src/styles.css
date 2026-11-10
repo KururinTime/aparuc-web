@@ -26,3 +26,5 @@
 @media(max-width:640px){.solution-page{padding-top:72px}.solution-hero{padding-top:25px}.solution-hero p:not(.eyebrow){font-size:16px}.solution-service-grid,.solution-contact-grid{grid-template-columns:1fr}.solution-service,.regulation,.solution-form{padding:22px}.solution-contact-grid{gap:28px}}
 
 .solution-service h3 a{display:inline-flex;align-items:center;gap:10px}.solution-service h3 a:hover,.service-card li a:hover{color:#12766c;text-decoration:underline}.service-card li a{display:inline-flex;align-items:center;gap:8px}
+
+.service-photo{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:3px;margin-bottom:24px}

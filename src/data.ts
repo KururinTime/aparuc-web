@@ -40,4 +40,5 @@ export const expertise = [
  'Prácticas seguras en sistemas de refrigeración con amoniaco',
  'Gestión en faenas de buceo',
  'Capacitación en primera respuesta de emergencias de salud',
+ 'Capacitaciones para faenas de Peróxido de hidrógeno.',
 ];
