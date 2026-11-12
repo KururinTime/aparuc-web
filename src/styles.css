@@ -28,3 +28,5 @@
 .solution-service h3 a{display:inline-flex;align-items:center;gap:10px}.solution-service h3 a:hover,.service-card li a:hover{color:#12766c;text-decoration:underline}.service-card li a{display:inline-flex;align-items:center;gap:8px}
 
 .service-photo{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:3px;margin-bottom:24px}
+
+.sector-photo{display:block;width:100%;height:auto;aspect-ratio:1125/620;object-fit:cover;border-radius:3px;margin:0 0 20px}
